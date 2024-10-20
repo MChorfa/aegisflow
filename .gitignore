@@ -1,0 +1,27 @@
+
+# .gitignore for AegisFlow
+
+# Build results
+/bin/
+obj/
+*.dll
+*.exe
+*.log
+*.pdb
+
+# User-specific files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Environment variables
+.env
+
+# Docker
+docker-compose.override.yml
+
+# Misc
+*.swp
+
