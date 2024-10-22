@@ -1,5 +1,9 @@
 # AegisFlow
 
+## DISCLAIMER ❗❗❗
+
+<span style="color:red;">❗ This project is a fictional example created for educational purposes. It does not represent a real company or product. ❗</span>
+
 ## Overview
 
 **AegisFlow** is a scalable, secure, and resilient microservices-based solution designed for efficient file conversion, artifact analysis.
